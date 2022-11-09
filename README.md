@@ -12,3 +12,5 @@ Future possibilities:
 - Torch/light source of some form?
 - USB authentication key/2FA device
 - [your idea here]?
+
+Click on individual folders for detailed README
