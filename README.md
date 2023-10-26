@@ -11,6 +11,7 @@ Current models:
 Future possibilities: 
 - Torch/light source of some form?
 - USB authentication key/2FA device
+- Lapel pin?
 - [your idea here]?
 
 Click on individual folders for detailed README
