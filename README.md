@@ -1,6 +1,6 @@
 # 1337Link
 ### pronounced 'leet-link'
-
+<img src="1337Link-T/assets/img1.png">
 Power at your ~~fingertips~~ wrists!
 A series of useful/cool gadgets in cufflink form. 
 
@@ -11,4 +11,7 @@ Current models:
 Future possibilities: 
 - Torch/light source of some form?
 - USB authentication key/2FA device
+- Lapel pin?
 - [your idea here]?
+
+Click on individual folders for detailed README
